@@ -1,0 +1,30 @@
+#logback.xml
+# eclipse configuration files
+.settings
+*.project
+*.classpath
+*.prefs
+
+# development files developed by JetBrains
+*.iml
+.idea/
+
+# Compiled class file
+*.class
+target/
+
+# Log file
+*.log
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.DS_Store
+# temp files
+temp/
